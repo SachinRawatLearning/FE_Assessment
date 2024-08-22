@@ -40,3 +40,8 @@ Your mission if you choose to accept it, you have to:
 6. Typescript is a plus
 
 This message will self destruct in 5... 4... 3... 2... 1... NOT
+
+
+Outcome:
+
+![alt text](image.png)
