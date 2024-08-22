@@ -1,4 +1,4 @@
-import "./accordion.css";
+import "./celebritiesList.css";
 import {
   RiDeleteBinLine,
   RiEdit2Line,

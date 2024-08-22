@@ -1,5 +1,5 @@
 import logo from "./logo.svg";
-import Accordion from "./Accordion";
+import CelebritiesList from "./CelebritiesList";
 import CelebritiesArray from "./celebrities.json";
 import { useState } from "react";
 
@@ -33,7 +33,7 @@ function App() {
         </div>
         <div className="accordion" id="accordionExample">
           {celebrities.map((celeb) => (
-            <Accordion
+            <CelebritiesList
               celeb={celeb}
               key={celeb.id}
               updateUser={updateUser}
